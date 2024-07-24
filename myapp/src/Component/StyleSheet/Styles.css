@@ -1,0 +1,60 @@
+.p{
+    background-color: red;
+    font-size: 20px;
+    color: white;
+}
+
+.b{
+    /* background-color: bisque; */
+    font-size: 20px;
+    /* color: rgb(11, 11, 11);  */
+}
+
+.form{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 700px;
+    background-color: cadetblue;
+    
+    
+    
+}
+
+.inp1{
+    width: 450px;
+    height: 35px;
+    text-align: center;
+}
+
+.inp{
+    width: 450px;
+    height: 35px;
+    text-align: center;   
+}
+
+.inp2{
+    width: 450px;
+    height: 35px;
+    text-align: center;
+    
+}
+
+.inp3{
+    width: 450px;
+    height: 35px;
+    text-align: center;
+}
+
+.inp4{
+    width: 450px;
+    height: 35px;
+    text-align: center;
+}
+
+.submit{
+    width: 150px;
+    height: 30px;
+}
